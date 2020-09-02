@@ -1,0 +1,42 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+###### List ######
+
+administrator.challenge.list.label.title = Title
+administrator.challenge.list.label.deadline = Deadline
+
+###### Form ######
+
+administrator.challenge.form.label.title = Title
+administrator.challenge.form.label.deadline = Deadline
+administrator.challenge.form.label.update-date = Update date
+administrator.challenge.form.label.description = Description
+administrator.challenge.form.label.expert-goal = Expert goal
+administrator.challenge.form.label.average-goal = Average goal
+administrator.challenge.form.label.rookie-goal = Rookie goal
+administrator.challenge.form.label.expert-reward = Expert reward
+administrator.challenge.form.label.average-reward = Average reward
+administrator.challenge.form.label.rookie-reward = Rookie reward
+
+###### Button ######
+
+administrator.challenge.form.button.update = Update
+administrator.challenge.form.button.create = Create
+administrator.challenge.form.button.delete = Delete
+administrator.challenge.form.button.return = Return
+
+###### Errors ######
+
+administrator.challenge.error.average-higher-than-rookie = Rookie reward must be lower than Average reward
+administrator.challenge.error.average-lower-than-rookie = Average reward must be higher than Rookie reward
+administrator.challenge.error.expert-lower-than-average = Expert reward must be higher than Average reward
+administrator.challenge.error.past-deadline = Deadline must be in the future
+administrator.challenge.error.past-deadline-1month = Deadline must be at least one month ahead in the future

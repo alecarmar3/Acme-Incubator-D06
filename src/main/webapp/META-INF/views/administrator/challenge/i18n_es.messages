@@ -1,0 +1,42 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+###### List ######
+
+administrator.challenge.list.label.title = Título
+administrator.challenge.list.label.deadline = Fecha de vencimiento
+
+###### Form ######
+
+administrator.challenge.form.label.title = Título
+administrator.challenge.form.label.deadline = Fecha de vencimiento
+administrator.challenge.form.label.update-date = Update date
+administrator.challenge.form.label.description = Descripción
+administrator.challenge.form.label.expert-goal = Meta de experto
+administrator.challenge.form.label.average-goal = Meta de intermedio
+administrator.challenge.form.label.rookie-goal = Meta de novato
+administrator.challenge.form.label.expert-reward = Recompensa de experto
+administrator.challenge.form.label.average-reward = Recompensa de intermedio
+administrator.challenge.form.label.rookie-reward = Recompensa de novato
+
+###### Button ######
+
+administrator.challenge.form.button.update = Actualizar
+administrator.challenge.form.button.create = Crear
+administrator.challenge.form.button.delete = Eliminar
+administrator.challenge.form.button.return = Volver
+
+###### Errors ######
+
+administrator.challenge.error.average-higher-than-rookie = La recompensa de novato debe ser menor que la de intermedio
+administrator.challenge.error.average-lower-than-rookie = La recompensa de intermedio debe ser mayor que la de novato
+administrator.challenge.error.expert-lower-than-average = La recompensa de experto debe ser mayor que la de intermedio
+administrator.challenge.error.past-deadline = La fecha de vencimiento debe estar en el futuro
+administrator.challenge.error.past-deadline-1month = La fecha de vencimiento debe estar al menos un mes por delante en el futuro

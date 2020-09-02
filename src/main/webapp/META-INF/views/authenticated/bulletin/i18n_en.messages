@@ -1,0 +1,18 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+authenticated.bulletin.label.author = Author:
+authenticated.bulletin.label.title = Title:
+authenticated.bulletin.label.text = Text:
+authenticated.bulletin.label.moment = Moment:
+authenticated.bulletin.label.category = Category:
+
+authenticated.bulletin.button.create = Create bulletin
+authenticated.bulletin.button.return = Return

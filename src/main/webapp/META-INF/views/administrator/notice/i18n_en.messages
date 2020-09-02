@@ -1,0 +1,35 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+###### List ######
+
+administrator.notice.list.label.header-picture = Header picture
+administrator.notice.list.label.title = Title
+administrator.notice.list.label.deadline = Deadline
+
+###### Form ######
+
+administrator.notice.form.label.header-picture = Header picture
+administrator.notice.form.label.title = Title
+administrator.notice.form.label.creation-date = Creation date
+administrator.notice.form.label.deadline = Deadline
+administrator.notice.form.label.body = Body
+administrator.notice.form.label.web-links = Web links
+administrator.notice.form.label.confirm-creation = Confirm creation
+
+###### Button ######
+
+administrator.notice.form.button.create = Create
+administrator.notice.form.button.return = Return
+
+###### Errors ######
+
+administrator.notice.error.past-deadline = Deadline must be in the future
+administrator.notice.error.must-accept = Must confirm the creation

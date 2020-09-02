@@ -1,0 +1,21 @@
+# i18n_en.forums
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+authenticated.forum.label.title = Title
+authenticated.forum.label.creationDate = Creation date
+authenticated.forum.label.investmentRound = Investment round
+
+authenticated.forum.button.getMessages = Get messages
+authenticated.forum.button.postMessage = Post message
+authenticated.participates-in.button.add-participant = Add participant
+authenticated.forum.button.list-participants = List participants
+authenticated.forum.button.create = Create
+authenticated.forum.button.delete = Delete
+authenticated.forum.button.return = Return

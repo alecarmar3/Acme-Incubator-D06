@@ -1,0 +1,40 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+###### List ######
+
+administrator.inquiry.list.label.title = Título
+administrator.inquiry.list.label.deadline = Fecha de vencimiento
+administrator.inquiry.list.label.money-min = Dinero mínimo
+administrator.inquiry.list.label.money-max = Dinero máximo
+
+###### Form ######
+
+administrator.inquiry.form.label.title = Título
+administrator.inquiry.form.label.creation-date = Fecha de creación
+administrator.inquiry.form.label.update-date = Fecha de actualización
+administrator.inquiry.form.label.deadline = Fecha de vencimiento
+administrator.inquiry.form.label.body = Cuerpo
+administrator.inquiry.form.label.money-min = Dinero mínimo
+administrator.inquiry.form.label.money-max = Dinero máximo
+administrator.inquiry.form.label.email = Email
+
+###### Button ######
+
+administrator.inquiry.form.button.update = Actualizar
+administrator.inquiry.form.button.delete = Eliminar
+administrator.inquiry.form.button.create = Crear
+administrator.inquiry.form.button.return = Volver
+
+###### Errors ######
+
+administrator.inquiry.error.past-deadline = La fecha de vencimiento debe estar en el futuro
+administrator.inquiry.error.wrong-currency = Las cantidades de dinero deben ser expresadas en Euros
+administrator.inquiry.error.moneyMin-is-not-minimum = La cantidad mínima de dinero debe ser menor que la cantidad máxima de dinero

@@ -1,0 +1,40 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+###### List ######
+
+administrator.overture.list.label.title = Título
+administrator.overture.list.label.deadline = Fecha de vencimiento
+administrator.overture.list.label.money-min = Dinero mínimo
+administrator.overture.list.label.money-max = Dinero máximo
+
+###### Form ######
+
+administrator.overture.form.label.title = Título
+administrator.overture.form.label.creation-date = Fecha de creación
+administrator.overture.form.label.update-date = Fecha de actualización
+administrator.overture.form.label.deadline = Fecha de vencimiento
+administrator.overture.form.label.body = Cuerpo
+administrator.overture.form.label.money-min = Dinero mínimo
+administrator.overture.form.label.money-max = Dinero máximo
+administrator.overture.form.label.email = Email
+
+###### Button ######
+
+administrator.overture.form.button.update = Actualizar
+administrator.overture.form.button.delete = Eliminar
+administrator.overture.form.button.create = Crear
+administrator.overture.form.button.return = Volver
+
+###### Errors ######
+
+administrator.overture.error.past-deadline = La fecha de vencimiento debe estar en el futuro
+administrator.overture.error.wrong-currency = Las cantidades de dinero deben ser expresadas en Euros
+administrator.overture.error.moneyMin-is-not-minimum = La cantidad mínima de dinero debe ser menor que la cantidad máxima de dinero

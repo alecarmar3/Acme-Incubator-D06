@@ -1,0 +1,22 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+investor.application.label.ticker = Identificador
+investor.application.label.creationDate = Fecha de creación
+investor.application.label.statement = Declaración
+investor.application.label.investmentMoneyOffer = Oferta monetaria de inversión
+investor.application.label.investor = Inversor
+investor.application.label.investmentRound = Ronda de inversión
+investor.application.label.status = Estado
+investor.application.label.justification = Justificación
+
+
+investor.application.form.button.create = Crear
+investor.application.button.return = Volver

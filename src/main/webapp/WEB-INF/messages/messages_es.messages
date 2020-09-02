@@ -1,0 +1,41 @@
+# messages_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+datatables.language	= /libraries/datatables/1.10.18/config/i18n_es.json
+
+default.format.moment = dd/MM/yyyy HH:mm
+
+default.placeholder.moment = dd/mm/yyyy hh:mm
+default.placeholder.money = 123.456,78 EUR
+default.placeholder.double = 123.456,78
+default.placeholder.integer = 123.456
+default.placeholder.url = http://www.acme.com
+
+default.banner.error.expiration-date-pattern = Formato de fecha de validez incorrecto
+default.banner.error.cvv-pattern = Formato de CVV incorrecto
+default.error.ticker-pattern = Ticker format must fit: “LLL-DD-DDDDDD” donde “L” denota una letra en mayúsculas y "D" denota un dígito
+default.error.ticker-pattern.letters = Las primeras tres letras deben coincidir con las primeras tres letras de tu sector de actividad
+default.error.ticker-pattern.yearDigits = Los dos dígitos centrales deben coincidir con los dos últimos dígitos del año actual
+default.error.conversion = Valor incorrecto
+default.error.wrong-currency = Las cantidades de dinero deben ser expresadas en Euros
+default.error.endpoint-unavailable = End-point no disponible
+default.error.not-authorised = Acceso no autorizado
+default.error.already-in-use = Actualmente en uso
+default.error.insufficient-budget = El presupuesto del programa de trabajo es menor que la cantidad de dinero requerida por la ronda de inversión. No se puede guardar en modo final
+default.error.updating-unavailable = No se puede actualizar mientras se encuentre en modo final
+default.error.has-applications = No se puede eliminar mientras haya sido aplicada al menos una vez
+default.error.spam = No se puede actualizar mientras contenga palabras de spam
+default.message.error.spam = No se puede crear mientras contenga palabras de spam
+default.error.must-accept = Se debe confirmar la creación
+default.error.justification-needed = Es necesaria una justificación para las aplicaciones rechazadas
+
+
+
+

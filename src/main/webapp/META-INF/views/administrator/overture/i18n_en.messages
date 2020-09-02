@@ -1,0 +1,40 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+###### List ######
+
+administrator.overture.list.label.title = Title
+administrator.overture.list.label.deadline = Deadline
+administrator.overture.list.label.money-min = Minimum money
+administrator.overture.list.label.money-max = Maximum money
+
+###### Form ######
+
+administrator.overture.form.label.title = Title
+administrator.overture.form.label.creation-date = Creation date
+administrator.overture.form.label.update-date = Update date
+administrator.overture.form.label.deadline = Deadline
+administrator.overture.form.label.body = Body
+administrator.overture.form.label.money-min = Minimum money
+administrator.overture.form.label.money-max = Maximum money
+administrator.overture.form.label.email = Email
+
+###### Button ######
+
+administrator.overture.form.button.update = Update
+administrator.overture.form.button.delete = Delete
+administrator.overture.form.button.create = Create
+administrator.overture.form.button.return = Return
+
+###### Errors ######
+
+administrator.overture.error.past-deadline = Deadline must be in the future
+administrator.overture.error.wrong-currency = Money amounts must be expressed in Euros
+administrator.overture.error.moneyMin-is-not-minimum = Minimum money amount must be lower than maximum money amount

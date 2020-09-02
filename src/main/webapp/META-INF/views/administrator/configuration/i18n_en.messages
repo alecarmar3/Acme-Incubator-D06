@@ -1,0 +1,18 @@
+###### List ######
+
+administrator.configuration.list.label.spamWords = Spam words
+administrator.configuration.list.label.spamThreshold = Spam threshold
+administrator.configuration.list.label.activitySectors = Activity sectors
+
+###### Form ######
+
+administrator.configuration.form.label.spamWords = Spam words
+administrator.configuration.form.label.spamThreshold = Spam threshold
+administrator.configuration.form.label.activitySectors = Activity sectors
+
+###### Button ######
+
+administrator.configuration.form.button.update = Update
+administrator.configuration.form.button.return = Return
+
+###### Error ######
