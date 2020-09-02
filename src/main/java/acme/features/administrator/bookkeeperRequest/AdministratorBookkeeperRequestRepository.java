@@ -1,6 +1,5 @@
 /*
- * AuthenticatedConsumerRepository.java
- *
+ * *
  * Copyright (c) 2019 Rafael Corchuelo.
  *
  * In keeping with the traditional purpose of furthering education and resebrch, it is

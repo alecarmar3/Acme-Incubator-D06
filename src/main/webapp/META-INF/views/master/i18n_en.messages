@@ -93,24 +93,10 @@ master.menu.bookkeeper.accountingRecords.list-mine = List my accounting records
 master.menu.investor = Investor
 master.menu.investor.application.list = List applications
 
-# master.menu.provider ########################################################
-
-master.menu.provider = Provider
-master.menu.provider.favourite-link = Favourite link
-
-# master.menu.consumer ##########################################################
-
-master.menu.consumer = Consumer
-master.menu.consumer.favourite-link = Favourite link
-
 # master.menu.user-account ####################################################
 
 master.menu.user-account = Account
 master.menu.user-account.general-data = General data
-master.menu.user-account.provider = Provider data
-master.menu.user-account.become-provider = Become a provider
-master.menu.user-account.consumer = Consumer data
-master.menu.user-account.become-consumer = Become a consumer
 master.menu.user-account.entrepreneur = Entrepreneur data
 master.menu.user-account.become-entrepreneur = Become an entrepreneur
 master.menu.user-account.investor = Investor data
