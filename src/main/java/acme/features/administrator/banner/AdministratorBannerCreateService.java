@@ -74,11 +74,13 @@ public class AdministratorBannerCreateService implements AbstractCreateService<A
 			boolean validMonth = month >= now.getMonthValue();
 			boolean monthInRange = month >= 1 && month <= 12;
 
-			errors.state(request, validYear, "expirationDate", "administrator.banner.error.timed-out-credit-card-year");
-			if (year == now.getYear() - 2000) {
+			if (validYear && year == now.getYear() - 2000) {
 				errors.state(request, validMonth, "expirationDate", "administrator.banner.error.timed-out-credit-card-month");
+				errors.state(request, monthInRange, "expirationDate", "administrator.banner.error.inexistent-month");
+			} else {
+				errors.state(request, validYear, "expirationDate", "administrator.banner.error.timed-out-credit-card-year");
+				errors.state(request, monthInRange, "expirationDate", "administrator.banner.error.inexistent-month");
 			}
-			errors.state(request, monthInRange, "expirationDate", "administrator.banner.error.inexistent-month");
 
 		}
 

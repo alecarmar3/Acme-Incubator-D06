@@ -37,3 +37,9 @@
 	</acme:footer-logo>		
 	
 </acme:footer-panel>
+
+<div class="text-center">
+	<a href="${banner.targetUrl}">
+		<img src="${banner.picture}" alt="${banner.slogan}" class="img-fluid"/>
+	</a>
+</div>

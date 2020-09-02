@@ -276,37 +276,40 @@
 	
 	<!-- Banners -->
 	
-	<bean name="banner1" class="acme.entities.Banner">
-		<property name="picture" value="http://photo1.com"/>
-		<property name="slogan" value="This is the slogan 1"/>
-		<property name="targetUrl" value="http://targetURL1.com"/>
-		<property name="creditCardNumber" value="4111111111111111"/>
-		<property name="holderName" value="Alberto"/>
-		<property name="brand" value="Visa"/>
-		<property name="expirationDate" value="07/21"/>
-		<property name="cvv" value="542"/>
-	</bean>
-	
-	<bean name="banner2" class="acme.entities.Banner">
-		<property name="picture" value="http://photo2.com"/>
-		<property name="slogan" value="This is the slogan 2"/>
-		<property name="targetUrl" value="http://targetURL2.com"/>
-		<property name="creditCardNumber" value="3222222222222222"/>
-		<property name="holderName" value="Chari"/>
-		<property name="brand" value="MasterCard"/>
-		<property name="expirationDate" value="10/28"/>
-		<property name="cvv" value="912"/>
-	</bean>
-	
-	<bean name="banner3" class="acme.entities.Banner">
-		<property name="picture" value="http://photo3.com"/>
-		<property name="slogan" value="This is the slogan 3"/>
-		<property name="targetUrl" value="http://targetURL3.com"/>
-		<property name="creditCardNumber" value="2333333333333333"/>
-		<property name="holderName" value="Khai"/>
-		<property name="brand" value="AmericanExpress"/>
-		<property name="expirationDate" value="12/20"/>
-		<property name="cvv" value="466"/>
+	<bean name="banner1" class="acme.entities.Banner"> 
+		<property name="picture" value="https://www.acreagelife.com/hs-fs/hubfs/ChickensLikeYou.jpg"/> 
+		<property name="slogan" value="This is the slogan 1"/> 
+		<property name="updateDate" value="2020/6/25 12:00"/> 
+		<property name="targetUrl" value="http://targetURL1.com"/> 
+		<property name="creditCardNumber" value="4111111111111111"/> 
+		<property name="holderName" value="Alberto"/> 
+		<property name="brand" value="Visa"/> 
+		<property name="expirationDate" value="07/21"/> 
+		<property name="cvv" value="542"/> 
+	</bean> 
+	 
+	<bean name="banner2" class="acme.entities.Banner"> 
+		<property name="picture" value="https://www.adcogov.org/sites/default/files/chicken%201%20-%20getty.jpg"/> 
+		<property name="slogan" value="This is the slogan 2"/> 
+		<property name="updateDate" value="2020/6/25 12:00"/> 
+		<property name="targetUrl" value="http://targetURL2.com"/> 
+		<property name="creditCardNumber" value="3222222222222222"/> 
+		<property name="holderName" value="Chari"/> 
+		<property name="brand" value="MasterCard"/> 
+		<property name="expirationDate" value="10/28"/> 
+		<property name="cvv" value="912"/> 
+	</bean> 
+	 
+	<bean name="banner3" class="acme.entities.Banner"> 
+		<property name="picture" value="https://www.murdochs.com/globalassets/learning-center/chickens/how-to-raise-checkens/how-to-raise-chickens-800x470.jpg"/> 
+		<property name="slogan" value="This is the slogan 3"/> 
+		<property name="updateDate" value="2020/6/25 12:00"/> 
+		<property name="targetUrl" value="http://targetURL3.com"/> 
+		<property name="creditCardNumber" value="2333333333333333"/> 
+		<property name="holderName" value="Khai"/> 
+		<property name="brand" value="AmericanExpress"/> 
+		<property name="expirationDate" value="12/19"/> 
+		<property name="cvv" value="466"/> 
 	</bean>
 	
 	<!-- UserAccounts -->
