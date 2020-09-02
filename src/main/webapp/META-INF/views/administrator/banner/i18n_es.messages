@@ -1,0 +1,40 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+###### List ######
+
+administrator.banner.list.label.picture = Imagen
+administrator.banner.list.label.slogan = Slogan
+administrator.banner.list.label.targetUrl = URL objetivo
+
+###### Form ######
+
+administrator.banner.form.label.picture = Imagen
+administrator.banner.form.label.slogan = Slogan
+administrator.banner.form.label.update-date = Fecha de actualización
+administrator.banner.form.label.targetUrl = URL objetivo
+administrator.banner.form.label.creditCardNumber = Número de tarjeta de crédito
+administrator.banner.form.label.holderName = Nombre del titular
+administrator.banner.form.label.brand = Marca
+administrator.banner.form.label.expirationDate = Fecha de vencimiento
+administrator.banner.form.label.cvv = CVV
+
+###### Button ######
+
+administrator.banner.form.button.update = Actualizar
+administrator.banner.form.button.create = Crear
+administrator.banner.form.button.delete = Eliminar
+administrator.banner.form.button.return = Volver
+
+###### Errors ######
+
+administrator.banner.error.timed-out-credit-card-year = El año de vencimiento debe ser desde este en adelante
+administrator.banner.error.timed-out-credit-card-month = El mes de vencimiento debe ser desde este en adelante
+administrator.banner.error.inexistent-month = El número de mes debe estar en el rango de 1 a 12, de otra forma es inexistente

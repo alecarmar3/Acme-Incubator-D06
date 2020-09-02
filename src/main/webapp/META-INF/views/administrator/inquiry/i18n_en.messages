@@ -1,0 +1,40 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+###### List ######
+
+administrator.inquiry.list.label.title = Title
+administrator.inquiry.list.label.deadline = Deadline
+administrator.inquiry.list.label.money-min = Minimum money
+administrator.inquiry.list.label.money-max = Maximum money
+
+###### Form ######
+
+administrator.inquiry.form.label.title = Title
+administrator.inquiry.form.label.creation-date = Creation date
+administrator.inquiry.form.label.update-date = Update date
+administrator.inquiry.form.label.deadline = Deadline
+administrator.inquiry.form.label.body = Body
+administrator.inquiry.form.label.money-min = Minimum money
+administrator.inquiry.form.label.money-max = Maximum money
+administrator.inquiry.form.label.email = Email
+
+###### Button ######
+
+administrator.inquiry.form.button.update = Update
+administrator.inquiry.form.button.delete = Delete
+administrator.inquiry.form.button.create = Create
+administrator.inquiry.form.button.return = Return
+
+###### Errors ######
+
+administrator.inquiry.error.past-deadline = Deadline must be in the future
+administrator.inquiry.error.wrong-currency = Money amounts must be expressed in Euros
+administrator.inquiry.error.moneyMin-is-not-minimum = Minimum money amount must be lower than maximum money amount

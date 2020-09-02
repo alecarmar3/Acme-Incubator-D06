@@ -1,0 +1,9 @@
+
+authenticated.participates-in.label.forum-title = Forum Title
+authenticated.participates-in.label.add-participant = Add Participant
+authenticated.participates-in.label.username = Username
+authenticated.participates-in.label.fullname = Fullname
+
+authenticated.participates-in.button.create = Create
+authenticated.participates-in.button.delete = Remove Participant
+authenticated.participates-in.button.return = Return

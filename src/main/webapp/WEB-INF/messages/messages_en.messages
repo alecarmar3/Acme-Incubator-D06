@@ -1,0 +1,42 @@
+# messages_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+datatables.language = /libraries/datatables/1.10.18/config/i18n.json
+
+default.format.moment = yyyy/MM/dd HH:mm
+
+default.placeholder.moment = yyyy/mm/dd hh:mm
+default.placeholder.money = EUR 123,456.78
+default.placeholder.double = 123,456.78
+default.placeholder.integer = 123,456
+default.placeholder.url = http://www.acme.com
+
+default.banner.error.expiration-date-pattern = Incorrect expiration date format
+default.banner.error.cvv-pattern = Incorrect CVV format
+default.error.ticker-pattern = Ticker format must fit: “LLL-DD-DDDDDD” where “L” denotes an upper case letter and "D" denotes a digit
+default.error.ticker-pattern.letters = The first three letter must fit the first three letters of your activity sector.
+default.error.ticker-pattern.yearDigits = The middle two digits must fit the last two digits of the current year.
+default.error.conversion = Invalid value
+default.error.wrong-currency = Money amounts must be expressed in Euros
+default.error.endpoint-unavailable = End-point not available
+default.error.not-authorised = Access is not authorised
+default.error.already-in-use = Already in use
+default.error.insufficient-budget = Work programme budget is minor than the amount of money required by the investment round. Can not be saved in final mode
+default.error.updating-unavailable = Can not update meanwhile it is saved in final mode
+default.error.has-applications = Can not delete meanwhile it has been applied at least once
+default.error.spam = Can not update meanwhile it contains spam words
+default.message.error.spam = Can not create meanwhile it contains spam words
+default.error.must-accept = Must confirm the creation
+default.error.justification-needed = A justification is needed for rejected applications
+
+
+
+
+

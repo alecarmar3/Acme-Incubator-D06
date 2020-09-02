@@ -1,0 +1,29 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+entrepreneur.investmentRound.label.ticker = Identificador
+entrepreneur.investmentRound.label.finalMode = Modo final
+entrepreneur.investmentRound.label.finalMode.no = No
+entrepreneur.investmentRound.label.finalMode.yes = Sí
+entrepreneur.investmentRound.label.creationDate = Fecha de creación
+entrepreneur.investmentRound.label.updateDate = Fecha de actualización
+entrepreneur.investmentRound.label.kindOfRound = Tipo de ronda
+entrepreneur.investmentRound.label.title = Título
+entrepreneur.investmentRound.label.description = Descripción
+entrepreneur.investmentRound.label.amountOfMoney = Cantidad de dinero
+entrepreneur.investmentRound.label.additionalInfo = Información adicional
+entrepreneur.investmentRound.label.entrepreneur = Emprendedor
+
+entrepreneur.investmentRound.form.button.saveInFinalMode = Guardar en modo final
+entrepreneur.investmentRound.form.button.create = Crear
+entrepreneur.investmentRound.form.button.update = Actualizar
+entrepreneur.investmentRound.form.button.delete = Eliminar
+
+entrepreneur.investmentRound.button.return = Return

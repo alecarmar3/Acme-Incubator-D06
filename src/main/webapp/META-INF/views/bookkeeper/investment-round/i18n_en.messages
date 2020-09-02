@@ -1,0 +1,21 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+bookkeeper.investmentRound.label.ticker = Ticker
+bookkeeper.investmentRound.label.finalMode = Final mode
+bookkeeper.investmentRound.label.creationDate = Creation date
+bookkeeper.investmentRound.label.kindOfRound = Kind of round
+bookkeeper.investmentRound.label.title = Title
+bookkeeper.investmentRound.label.description = Description
+bookkeeper.investmentRound.label.amountOfMoney = Amount of money
+bookkeeper.investmentRound.label.additionalInfo = Additional information
+bookkeeper.investmentRound.label.entrepreneur = Entrepreneur
+
+bookkeeper.investmentRound.button.return = Return

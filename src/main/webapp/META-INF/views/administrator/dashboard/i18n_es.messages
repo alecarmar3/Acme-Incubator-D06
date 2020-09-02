@@ -1,0 +1,18 @@
+###### Form ######
+
+administrator.dashboard.form.title.statutes= Estadísticas
+administrator.dashboard.show.generalData = Datos generales
+
+administrator.dashboard.form.totalNotices = Comunicados totales
+administrator.dashboard.form.totalTechnologyRecords = Registros de tecnología totales
+administrator.dashboard.form.totalToolRecords = Registros de herramientas totales
+
+administrator.dashboard.form.minimumMoneyIntervalActiveInquires = Intervalo monetario mínimo de las investigaciones activas
+administrator.dashboard.form.maximumMoneyIntervalActiveInquires = Intervalo monetario máximo de las investigaciones activas
+administrator.dashboard.form.averageMoneyIntervalActiveInquires = Intervalo monetario medio de las investigaciones activas
+administrator.dashboard.form.deviationMoneyIntervalActiveInquires = Desviación del intervalo monetario de las investigaciones activas
+
+administrator.dashboard.form.minimumMoneyIntervalActiveOvertures = Intervalo monetario mínimo de las propuestas activas
+administrator.dashboard.form.maximumMoneyIntervalActiveOvertures = Intervalo monetario máximo de las propuestas activas
+administrator.dashboard.form.averageMoneyIntervalActiveOvertures = Intervalo monetario medio de las propuestas activas
+administrator.dashboard.form.deviationMoneyIntervalActiveOvertures = Desviación del intervalo monetario de las propuestas activas
